@@ -5,7 +5,6 @@ I like to work on projects of all sizes from small to large projects, always loo
 
 • **Currently working on**: Modern, lightweight projects using Python and web technologies.
 
-• **Interested in collaborating on**: Projects that need smart structure, performance, and clean interfaces.
 
 • **Ask me about**: Python development, HTML structure, and improving code readability.
 
